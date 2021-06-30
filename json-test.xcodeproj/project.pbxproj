@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		D95DCADE268CA56E000E0D7D /* db.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = db.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		D95DCAD7268CA4CC000E0D7D = {
 			isa = PBXGroup;
 			children = (
+				D95DCADE268CA56E000E0D7D /* db.json */,
 			);
 			sourceTree = "<group>";
 		};
